@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practical2_2Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_zoom_in">Zoom In</string>
+    <string name="action_zoom_out">Zoom Out</string>
+    <string name="action_about_us">About Us</string>
+    <string name="button_show_website">Visit Google.com</string>
+    <string name="button_show_dial">Call not 911</string>
+    <string name="button_show_main">Take me home</string>
+    <string name="button_show_sendto">Send spam email</string>
+    <string name="About_us">About Us</string>
+</resources>
